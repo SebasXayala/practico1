@@ -16,6 +16,7 @@ public class Practico1 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("hola clase diseño de sistema");
     }
     
 }
