@@ -9,10 +9,10 @@ package practico1;
  *
  * @author 416-pc6
  */
-public class Zapato extends Producto{
-    
+public class Zapato extends Producto {
+
     private double talla;
     private String color;
     private String marca;
-    
+
 }

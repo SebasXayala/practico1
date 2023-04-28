@@ -9,7 +9,8 @@ package practico1;
  *
  * @author 416-pc6
  */
-public class prevestir extends Producto{
+public class prevestir extends Producto {
+
     private String talla;
     private String marca;
     private String color;

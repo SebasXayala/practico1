@@ -10,5 +10,9 @@ package practico1;
  * @author 416-pc6
  */
 public class Producto {
-    
+
+    private int id;
+    private String nombre;
+    private double precio;
+
 }
