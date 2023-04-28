@@ -1,6 +1,7 @@
 # proyecto basa en GT
 
-este proyecto es realizado en Java para la implementacion de GIT en la clase de diseño de software, trata sobre un software de inventario de productos
+este proyecto es realizado en Java para la implementacion de GIT en la clase 
+de diseño de software, trata sobre un software de inventario de productos
 
 ## pre-requisitos
 *Java
